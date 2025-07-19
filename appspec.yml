@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./my-app-1.0-SNAPSHOT-Oct-05-2024.jar
+  - source: ./my-app-1.0-SNAPSHOT-July-19-2025.jar
     destination: /tmp
